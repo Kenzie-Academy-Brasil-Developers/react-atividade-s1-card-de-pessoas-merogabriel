@@ -1,0 +1,8 @@
+.devs {
+  display: flex;
+  color: yellow;
+  background-color: grey;
+  border: rgb(228, 141, 220) 2px solid;
+  justify-content: space-around;
+  text-align: center;
+}
